@@ -9,14 +9,14 @@
 
 # -- example code --
 
-from py area import *
+from pyarea import *
 
 area=circle.area(value)
 print("area:",area) 
 
 # -- example code --
 
-from py area import square
+from pyarea import square
 
 area=square.area(value)
 print("area:",area) 
