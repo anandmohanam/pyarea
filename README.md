@@ -14,7 +14,7 @@ from py area import *
 area=circle.area(value)
 print("area:",area) 
 
-
+# -- example code --
 
 from py area import square
 
@@ -22,6 +22,6 @@ area=square.area(value)
 print("area:",area) 
 
 ## --important--
-## --to install in local Machine--(windows)
+# --to install in local Machine--(windows)
 
-## pip install .\dist\pyarea-1.0.0.tar.gz   
+# pip install .\dist\pyarea-1.0.0.tar.gz   
