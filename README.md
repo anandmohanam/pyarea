@@ -6,17 +6,16 @@ find area of below shape:
 
 
 #-- example code --
-<!-- 
+
 from py area import *
 
 area=circle.area(value)
 print("area:",area) 
--->
 
-<!-- 
+
+
 from py area import square
 
 area=square.area(value)
 print("area:",area) 
 
--->
