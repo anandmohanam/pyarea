@@ -3,10 +3,10 @@ from setuptools import setup, find_packages
 setup(
     name='pyarea',
     version='1.0.0',
-    description='Description of your package',
-    long_description='Long description of your package',
+    description='area',
+    long_description='area of different shapes',
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/anandmohanam/pyarea.git',
     author='anand mohan a m',
     author_email='anandmohanam2709@gmail.com',
     license='MIT',
@@ -29,6 +29,6 @@ setup(
         # Add your dependencies here
     ],
     project_urls={
-        'Source': '',
+        'Source': 'https://github.com/anandmohanam/pyarea.git',
     },
 )
