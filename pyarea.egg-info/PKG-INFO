@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: pyarea
 Version: 1.0.0
-Summary: Description of your package
-Home-page: 
+Summary: area
+Home-page: https://github.com/anandmohanam/pyarea.git
 Author: anand mohan a m
 Author-email: anandmohanam2709@gmail.com
 License: MIT
-Project-URL: Source, 
+Project-URL: Source, https://github.com/anandmohanam/pyarea.git
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
@@ -20,4 +20,4 @@ Classifier: Topic :: Software Development :: Libraries :: Python Modules
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 
-Long description of your package
+area of different shapes
